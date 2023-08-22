@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pingues.github.io/sitedemax/sitemap.xml

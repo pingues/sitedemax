@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Site de Max</title>
+    <link href="https://pingues.github.io/sitedemax/feed.xml" rel="self" />
+    <link href="https://pingues.github.io/sitedemax" />
+    <updated>2023-08-22T15:25:22+02:00</updated>
+    <author>
+        <name>Max</name>
+    </author>
+    <id>https://pingues.github.io/sitedemax</id>
+
+    <entry>
+        <title>2ème article</title>
+        <author>
+            <name>Max</name>
+        </author>
+        <link href="https://pingues.github.io/sitedemax/2eme-article.html"/>
+        <id>https://pingues.github.io/sitedemax/2eme-article.html</id>
+
+        <updated>2023-08-22T15:25:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut leo elit. Proin ut neque accumsan, ullamcorper est ut, malesuada felis. Fusce tempor in justo tristique varius. Praesent ipsum eros, pulvinar ut tempor quis, consectetur nec neque. Nulla lobortis nulla sit amet ipsum scelerisque pretium.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut leo elit. Proin ut neque accumsan, ullamcorper est ut, malesuada felis. Fusce tempor in justo tristique varius. Praesent ipsum eros, pulvinar ut tempor quis, consectetur nec neque. Nulla lobortis nulla sit amet ipsum scelerisque pretium. Morbi tincidunt enim id est placerat dapibus. Mauris nec venenatis justo. Donec lobortis nunc tincidunt, sollicitudin felis a, sodales ex. Ut elementum mauris id nibh volutpat ultricies. Curabitur interdum nisi non arcu porta mollis.</p>
+<p>Fusce at commodo lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam eros enim, pretium et urna a, cursus molestie felis. Nam lobortis erat at justo viverra fermentum. Nullam dui orci, iaculis sodales elit et, posuere consequat purus. Aliquam faucibus turpis ac urna accumsan, id dapibus diam aliquam. Morbi rhoncus massa id justo pretium ullamcorper. Nunc maximus quam ac lectus aliquet suscipit. Phasellus elementum rutrum tortor vel aliquam.</p>
+<p>Fusce lobortis enim eleifend quam blandit luctus. Aenean sem dolor, blandit non tincidunt pretium, consequat nec eros. Suspendisse elit nisi, efficitur sed molestie nec, hendrerit sed neque. Phasellus nulla purus, ornare ac fringilla vel, dignissim at enim. Mauris iaculis, orci in venenatis porttitor, velit ex cursus leo, a fringilla nunc est et nibh. Praesent arcu metus, porta nec sollicitudin tristique, tincidunt et magna. Phasellus dignissim, ipsum ut gravida commodo, quam ante tincidunt sem, auctor scelerisque nunc justo eget tortor. Pellentesque non ante tristique, aliquet quam id, dignissim sem. Nulla vel elit quis tortor venenatis vestibulum consectetur nec neque. Pellentesque aliquet faucibus nibh, in suscipit libero accumsan eu. Sed porttitor feugiat elementum. Pellentesque metus velit, facilisis ut finibus eu, pharetra eget lectus. Pellentesque nec facilisis ligula. Pellentesque sollicitudin neque in sem malesuada, a commodo mauris pellentesque. Fusce eu enim tortor.</p>
+<p>Maecenas ullamcorper consequat lobortis. Suspendisse imperdiet mauris et pellentesque cursus. Duis vel suscipit nisi. Fusce at molestie lacus, id pharetra eros. Nullam pretium tellus luctus erat iaculis, pretium lobortis lectus pretium. Nullam bibendum nunc nibh, id ullamcorper diam eleifend id. Morbi ac aliquam nunc. Phasellus ante ipsum, consectetur eget neque sit amet, bibendum pulvinar ante. Integer facilisis maximus facilisis. Proin viverra pulvinar magna. Quisque nisl quam, porta id mauris cursus, feugiat volutpat dui. Pellentesque facilisis finibus mi nec vulputate.</p>
+<p>Vivamus odio nisl, blandit sed velit ac, volutpat venenatis neque. In id augue vel libero consequat aliquam. Integer aliquam ultricies ultrices. Curabitur ac diam quis nisl sodales condimentum. Donec et urna dignissim, volutpat mauris sit amet, congue est. Pellentesque bibendum laoreet nisi et venenatis. Donec congue ipsum vitae ipsum varius, nec lobortis felis ultricies. Morbi non hendrerit nulla.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Premier article</title>
+        <author>
+            <name>Max</name>
+        </author>
+        <link href="https://pingues.github.io/sitedemax/premier-article.html"/>
+        <id>https://pingues.github.io/sitedemax/premier-article.html</id>
+
+        <updated>2023-08-22T15:24:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut leo elit. Proin ut neque accumsan, ullamcorper est ut, malesuada felis. Fusce tempor in justo tristique varius. Praesent ipsum eros, pulvinar ut tempor quis, consectetur nec neque. Nulla lobortis nulla sit amet ipsum scelerisque pretium.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut leo elit. Proin ut neque accumsan, ullamcorper est ut, malesuada felis. Fusce tempor in justo tristique varius. Praesent ipsum eros, pulvinar ut tempor quis, consectetur nec neque. Nulla lobortis nulla sit amet ipsum scelerisque pretium. Morbi tincidunt enim id est placerat dapibus. Mauris nec venenatis justo. Donec lobortis nunc tincidunt, sollicitudin felis a, sodales ex. Ut elementum mauris id nibh volutpat ultricies. Curabitur interdum nisi non arcu porta mollis.</p>
+<p>Fusce at commodo lectus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam eros enim, pretium et urna a, cursus molestie felis. Nam lobortis erat at justo viverra fermentum. Nullam dui orci, iaculis sodales elit et, posuere consequat purus. Aliquam faucibus turpis ac urna accumsan, id dapibus diam aliquam. Morbi rhoncus massa id justo pretium ullamcorper. Nunc maximus quam ac lectus aliquet suscipit. Phasellus elementum rutrum tortor vel aliquam.</p>
+<p>Fusce lobortis enim eleifend quam blandit luctus. Aenean sem dolor, blandit non tincidunt pretium, consequat nec eros. Suspendisse elit nisi, efficitur sed molestie nec, hendrerit sed neque. Phasellus nulla purus, ornare ac fringilla vel, dignissim at enim. Mauris iaculis, orci in venenatis porttitor, velit ex cursus leo, a fringilla nunc est et nibh. Praesent arcu metus, porta nec sollicitudin tristique, tincidunt et magna. Phasellus dignissim, ipsum ut gravida commodo, quam ante tincidunt sem, auctor scelerisque nunc justo eget tortor. Pellentesque non ante tristique, aliquet quam id, dignissim sem. Nulla vel elit quis tortor venenatis vestibulum consectetur nec neque. Pellentesque aliquet faucibus nibh, in suscipit libero accumsan eu. Sed porttitor feugiat elementum. Pellentesque metus velit, facilisis ut finibus eu, pharetra eget lectus. Pellentesque nec facilisis ligula. Pellentesque sollicitudin neque in sem malesuada, a commodo mauris pellentesque. Fusce eu enim tortor.</p>
+<p>Maecenas ullamcorper consequat lobortis. Suspendisse imperdiet mauris et pellentesque cursus. Duis vel suscipit nisi. Fusce at molestie lacus, id pharetra eros. Nullam pretium tellus luctus erat iaculis, pretium lobortis lectus pretium. Nullam bibendum nunc nibh, id ullamcorper diam eleifend id. Morbi ac aliquam nunc. Phasellus ante ipsum, consectetur eget neque sit amet, bibendum pulvinar ante. Integer facilisis maximus facilisis. Proin viverra pulvinar magna. Quisque nisl quam, porta id mauris cursus, feugiat volutpat dui. Pellentesque facilisis finibus mi nec vulputate.</p>
+<p>Vivamus odio nisl, blandit sed velit ac, volutpat venenatis neque. In id augue vel libero consequat aliquam. Integer aliquam ultricies ultrices. Curabitur ac diam quis nisl sodales condimentum. Donec et urna dignissim, volutpat mauris sit amet, congue est. Pellentesque bibendum laoreet nisi et venenatis. Donec congue ipsum vitae ipsum varius, nec lobortis felis ultricies. Morbi non hendrerit nulla.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
